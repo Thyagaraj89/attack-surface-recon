@@ -39,7 +39,7 @@ This project is designed as a professional security tooling portfolio project to
 
 ## Ethical Use Notice
 
-This tool is intended მხოლოდ for authorized reconnaissance, defensive security validation, and asset inventory collection.
+This tool is intended for authorized reconnaissance, defensive security validation, and asset inventory collection.
 
 Do not use this tool against systems, domains, or infrastructure that you do not own or do not have explicit permission to assess.
 
