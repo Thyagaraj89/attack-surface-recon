@@ -1,4 +1,4 @@
-# Attack Surface Recon Pipeline
+# 🔥Attack Surface Recon Pipeline🔥
 
 A Python-based reconnaissance automation pipeline for authorized external attack surface discovery and asset inventory collection.
 
@@ -66,13 +66,18 @@ attack-surface-recon/
 ├── src/
 ├── tests/
 └── examples/
+```
 
 ## Installation
 
 git clone https://github.com/yourusername/attack-surface-recon.git
+
 cd attack-surface-recon
+
 python -m venv .venv
+
 source .venv/bin/activate
+
 pip install -r requirements.txt
 
 
@@ -103,6 +108,7 @@ output/report.md
 
 ## Architecture Flow
 
+```text
 Target Domain
    ↓
 Subdomain Enumeration
@@ -116,7 +122,7 @@ HTTP/HTTPS Probing
 Normalization + Storage
    ↓
 JSON / SQLite / Markdown Report
-
+```
 
 ## Disclaimer
 
